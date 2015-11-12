@@ -9,14 +9,6 @@ We work hard to contribute to the Node.js community and we want to make sure you
 
 Note that this is not intended to be a comprehensive set of recommendations. Rather it's meant to be a helpful set of content that makes it easier to avoid any potential gotchas, and the beginning of what we expect to be an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
 
-### Emoji legend
-
-> :bulb: This is a tip that provides the reader with some additional info that's not necessary, but potentially useful for the task at hand.
-
-> :triangular_flag_on_post: **TODO** This describes a todo item that we'd like some help with.
-
-> :chart_with_upwards_trend: **IN PROGRESS** This provides awareness about an important issue that we're currently working on resolving.
-
 ## Node.js tips, tricks, resources, and more!
 * [Hello World](getting-started.md)
 * [Working with npm packages](getting-started.md#working-with-npm-packages)
@@ -34,6 +26,14 @@ Note that this is not intended to be a comprehensive set of recommendations. Rat
 * [Application-specific tips](application-tips.md)
 * [Node.js + Microsoft products, services, and contributions](README.md#nodejs--microsoft-products-services-and-contributions)
 * [Anything you want!](CONTRIBUTING.md)
+
+### Emoji legend
+
+> :bulb: This is a tip that provides the reader with some additional info that's not necessary, but potentially useful for the task at hand.
+
+> :triangular_flag_on_post: **TODO** This describes a todo item that we'd like some help with.
+
+> :chart_with_upwards_trend: **IN PROGRESS** This provides awareness about an important issue that we're currently working on resolving.
 
 ## Node.js + Microsoft products, services, and contributions
 * [**Visual Studio Code**](https://code.visualstudio.com/): Lightweight cross-platform editor for building and debugging modern web and cloud applications.
